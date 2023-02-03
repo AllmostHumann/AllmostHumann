@@ -29,8 +29,6 @@ align="right"
 <p align="left">
 <a href="https://github.com/AllmostHumann">
 <img height="150" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AllmostHumann&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-<p align="right">
 <img height="150" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AllmostHumann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
