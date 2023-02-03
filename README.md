@@ -1,5 +1,4 @@
 <h2>Hello there! I'm Jakub</h2>
-</br>
 <img src="https://user-images.githubusercontent.com/106307102/216629360-4fbb5e49-8d41-434b-88e5-264754598880.JPG" 
 width="480" 
 height="380" 
