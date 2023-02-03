@@ -28,8 +28,8 @@ align="right"
 
 <p align="left">
 <a href="https://github.com/AllmostHumann">
-<img height="180" width="450" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AllmostHumann&layout=compact&langs_count=8&theme=algolia"/>
-<img height="180" width="450" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AllmostHumann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="160" width="430" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AllmostHumann&layout=compact&langs_count=8&theme=algolia"/>
+<img height="160" width="430" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AllmostHumann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
