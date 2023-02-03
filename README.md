@@ -26,7 +26,7 @@ align="right"
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/AllmostHumann">
 <img height="160" width="430" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AllmostHumann&layout=compact&langs_count=8&theme=algolia"/>
 <img height="160" width="430" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AllmostHumann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
