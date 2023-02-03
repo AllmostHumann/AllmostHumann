@@ -1,7 +1,7 @@
 <h2>Hello there! I'm Jakub</h2>
-<img src="https://user-images.githubusercontent.com/106307102/216621197-ad3e37ef-9e9c-4c71-bfc7-fc98e91d5cb5.JPG" 
-width="500" 
-height="500" 
+<img src="https://user-images.githubusercontent.com/106307102/216629360-4fbb5e49-8d41-434b-88e5-264754598880.JPG" 
+width="480" 
+height="380" 
 align="right"
 >
 
