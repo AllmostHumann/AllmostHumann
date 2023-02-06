@@ -11,7 +11,7 @@ align="right"
 
 💡 &nbsp;I am currently working in the largest craft brewery in Poland.\
 🎓 &nbsp;But I want to change my life and become Frontend Developer and someday Fullstack Developer.\
-🌱 &nbsp;I'm on track for learning with the "YouCode Frontend Developer from scratch.\
+🌱 &nbsp;I'm on track for learning with the "YouCode Frontend Developer from scratch".\
 ✍️ &nbsp;In my free time, I'm trying to develop my skills and catch up with technological innovations.
 
 ### 🛠 &nbsp;Tech Stack
