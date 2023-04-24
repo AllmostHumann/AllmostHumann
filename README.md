@@ -7,7 +7,7 @@ align="right"
 
 <!-- ## 👋 &nbsp;Hello there! I'm Jakub -->
 
-### 👨🏻‍💻 &nbsp;[About Me](https://allmosthumann.github.io/personal-homepage/)
+### 👨🏻‍💻 &nbsp;[My personal homepage](https://allmosthumann.github.io/personal-homepage/)
 
 💡 &nbsp;I am currently working in the largest craft brewery in Poland.\
 🎓 &nbsp;But I want to change my life and become Frontend Developer and someday Fullstack Developer.\
