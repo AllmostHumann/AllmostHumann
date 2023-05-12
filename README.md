@@ -3,6 +3,7 @@
 width="480" 
 height="380" 
 align="right"
+style="border-radius:50%"
 >
 
 <!-- ## 👋 &nbsp;Hello there! I'm Jakub -->
@@ -11,7 +12,6 @@ align="right"
 
 💡 &nbsp;I am currently working in the largest craft brewery in Poland.\
 🎓 &nbsp;But I want to change my life and become Frontend Developer and someday Fullstack Developer.\
-🌱 &nbsp;I'm on track for learning with the "YouCode Frontend Developer from scratch".\
 ✍️ &nbsp;In my free time, I'm trying to develop my skills and catch up with technological innovations.
 
 ### 🛠 &nbsp;Tech Stack
@@ -24,6 +24,13 @@ align="right"
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### 🛠 &nbsp;In progress...
+
+![TypeScirpt](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss)
+![Next.js 13](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![TankStackQuery 4](https://img.shields.io/badge/-TankStackQuery-05122A?style=flat&logo=reactquery)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -45,4 +52,4 @@ align="right"
 
 -----
 
-Last Edited on: 03.02.2023
+Last Edited on: 12.05.2023
