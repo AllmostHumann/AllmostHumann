@@ -1,17 +1,13 @@
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello there! I'm Jakub</h1></summary>
+    <summary><h1 style="display: inline-block">Hello there! 👋 'm Jakub</h1></summary>
   </ul>
 </div>
 
-<!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-<!-- ## 👋 &nbsp;Hello there! I'm Jakub -->
 
 ### 👨🏻‍💻 &nbsp;[My personal homepage](https://allmosthumann.github.io/personal-homepage/)
 
@@ -36,19 +32,6 @@
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss)
 ![Next.js 13](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![TankStackQuery 4](https://img.shields.io/badge/-TankStackQuery-05122A?style=flat&logo=reactquery)
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,html,css,java,js,react,redux,router,vscode&perline=14" />
-  </a>
-</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
