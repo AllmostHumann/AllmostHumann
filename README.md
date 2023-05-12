@@ -3,12 +3,10 @@
     <summary><h1 style="display: inline-block">Hello there! 👋 'm Jakub</h1></summary>
   </ul>
 </div>
-
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 ### 👨🏻‍💻 &nbsp;[My personal homepage](https://allmosthumann.github.io/personal-homepage/)
 
 💡 &nbsp;I am currently working in the largest craft brewery in Poland.\
