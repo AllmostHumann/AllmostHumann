@@ -24,13 +24,20 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=Axios)&nbsp;
+![qs](https://img.shields.io/badge/-qs-05122A?style=flat&logo=qs)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss)&nbsp;
+![Next.js 13](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![TankStackQuery 4](https://img.shields.io/badge/-TankStackQuery-05122A?style=flat&logo=reactquery)&nbsp;
+
+
 
 ### 🛠 &nbsp;In progress...
 
-![TypeScirpt](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss)
-![Next.js 13](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![TankStackQuery 4](https://img.shields.io/badge/-TankStackQuery-05122A?style=flat&logo=reactquery)
+![TypeScirpt](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
+![Jest](https://img.shields.io/badge/-jest-05122A?style=flat&logo=jest)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -52,4 +59,4 @@
 
 -----
 
-Last Edited on: 12.05.2023
+Last Edited on: 1.08.2023
