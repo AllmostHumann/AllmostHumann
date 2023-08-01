@@ -40,7 +40,7 @@
 
 ![TypeScirpt](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
-![Jest](https://img.shields.io/badge/-jest-05122A?style=flat&logo=jest)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
