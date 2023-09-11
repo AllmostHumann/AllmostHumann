@@ -8,7 +8,7 @@
        alt="snake" /></a>
 </div>
 
-### 👨🏻‍💻 &nbsp;[My personal homepage](https://allmosthumann.github.io/personal-homepage/)
+### 👨🏻‍💻 &nbsp;[Please take a look at my personal homepage](https://allmosthumann.github.io/personal-homepage/)
 
 💡 &nbsp;I am currently working in the largest craft brewery in Poland.\
 🎓 &nbsp;But I want to change my life and become Frontend Developer and someday Fullstack Developer.\
@@ -36,9 +36,13 @@
 ![Trello](https://img.shields.io/badge/-trello-05122A?style=flat&logo=trello)&nbsp;
 
 
-### 🛠 &nbsp;In progress...
+### 🛠 &nbsp;In progress... (some on another account)
 
 ![TypeScirpt](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![ZOD](https://img.shields.io/badge/-ZOD-05122A?style=flat&logo=zod)&nbsp;
+![DrizzleORM](https://img.shields.io/badge/-DrizzleORM-05122A?style=flat&logo=drizzleorm)&nbsp;
+![tRCP](https://img.shields.io/badge/-tRCP-05122A?style=flat&logo=trcp)&nbsp;
+![Telegram Bot](https://img.shields.io/badge/-TelegramBot-05122A?style=flat&logo=telegram)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 
@@ -63,4 +67,4 @@
 
 -----
 
-Last Edited on: 1.08.2023
+Last Edited on: 11.09.2023
