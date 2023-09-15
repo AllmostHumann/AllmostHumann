@@ -46,7 +46,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 
-### 🛠 &nbsp;I'm Currently working at amazing project ![Mirrorboards](https://github.com/mirrorboards) on my second [account](https://github.com/UnseenNinja). It gonna blow your mind!
+### ⏳ &nbsp;I'm Currently working at amazing project ![Mirrorboards](https://github.com/mirrorboards) on my second [account](https://github.com/UnseenNinja). It gonna blow your mind!
 
 ### ⚙️ &nbsp;GitHub Analytics
 
