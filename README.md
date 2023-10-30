@@ -43,6 +43,8 @@
 ![DrizzleORM](https://img.shields.io/badge/-DrizzleORM-05122A?style=flat&logo=drizzleorm)&nbsp;
 ![tRCP](https://img.shields.io/badge/-tRCP-05122A?style=flat&logo=trcp)&nbsp;
 ![Telegram Bot](https://img.shields.io/badge/-TelegramBot-05122A?style=flat&logo=telegram)&nbsp;
+![JQuery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 
