@@ -36,17 +36,17 @@
 ![Trello](https://img.shields.io/badge/-trello-05122A?style=flat&logo=trello)&nbsp;
 
 
+
 ### 🛠 &nbsp;In progress... (some on another account)
 
 ![TypeScirpt](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![ZOD](https://img.shields.io/badge/-ZOD-05122A?style=flat&logo=zod)&nbsp;
 ![DrizzleORM](https://img.shields.io/badge/-DrizzleORM-05122A?style=flat&logo=drizzleorm)&nbsp;
 ![tRCP](https://img.shields.io/badge/-tRCP-05122A?style=flat&logo=trcp)&nbsp;
-![Telegram Bot](https://img.shields.io/badge/-TelegramBot-05122A?style=flat&logo=telegram)&nbsp;
-![JQuery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery)&nbsp;
-![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
+![Telegram Bot](https://img.shields.io/badge/-Telegram-Bot-05122A?style=flat&logo=telegram)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![PNPM](https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm)&nbsp;
 
 ### ⏳ &nbsp;I'm Currently working at amazing project [Mirrorboards](https://github.com/mirrorboards) on my second [account](https://github.com/UnseenNinja). It gonna blow your mind!
 
