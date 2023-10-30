@@ -43,7 +43,7 @@
 ![ZOD](https://img.shields.io/badge/-ZOD-05122A?style=flat&logo=zod)&nbsp;
 ![DrizzleORM](https://img.shields.io/badge/-DrizzleORM-05122A?style=flat&logo=drizzleorm)&nbsp;
 ![tRCP](https://img.shields.io/badge/-tRCP-05122A?style=flat&logo=trcp)&nbsp;
-![Telegram Bot](https://img.shields.io/badge/-Telegram&nbspBot-05122A?style=flat&logo=telegram)&nbsp;
+![Telegram Bot](https://img.shields.io/badge/-Telegram_Bot-05122A?style=flat&logo=telegram)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![PNPM](https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm)&nbsp;
