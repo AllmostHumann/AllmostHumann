@@ -29,7 +29,8 @@
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![TankStackQuery](https://img.shields.io/badge/-TankStackQuery-05122A?style=flat&logo=reactquery)&nbsp;
+![TankStack](https://img.shields.io/badge/-TankStack-05122A?style=flat&logo=https://github.com/AllmostHumann/AllmostHumann/assets/106307102/e693cb5c-076b-4ebd-b91d-5aa941b0b45e
+)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=Axios)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
