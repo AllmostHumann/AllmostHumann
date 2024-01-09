@@ -29,8 +29,7 @@
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![TankStack](https://img.shields.io/badge/-TankStack-05122A?style=flat&logo=https://github.com/AllmostHumann/AllmostHumann/assets/106307102/e693cb5c-076b-4ebd-b91d-5aa941b0b45e
-)&nbsp;
+![TankStack](https://img.shields.io/badge/-TankStack-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAilBMVEWtW2gAaLQAaLMMZq8gY6c2X59LXJdYWpJlWY52VoeIVIGUUXydUHmlTnWuTXK3TG/AS2zHS2m/SmvKSGfZR2PWRmLiRV/iRV7tQ1r5QVatVHn/RlKpmbju4OfsyNLbdIv////98PL/UU+sdpf/Wkz5eof/ZEn5xcz/b0X/fkH/Y2z/iT3LS2n/jD5L2UEhAAAALnRSTlMFUsj9////////////////yFL//lL/yP////////////////////////7/yFJSULKhLwAAAMFJREFUeAF8zgV2RCEQRNFXxZe4e7L/5cXdE+RMj+JwgW4hCUQZRK6l3EhmoSWhTkvNGZeY6Zab8ApTN2s7PDWzumpHohbpsRjNIDX8UjW6auILuh/0iag2qq+mc3hP+gZeq6Eh5LlvfT/jZjiYAKI5mGYMB0vAEK0LJoBqzhrME4PM0daBYs7mYAYIRhdM1UxrwYSioS5aWuc1GGlshvz2RjQcLP6ZS1dNTJsArGwsNF+BJc3YT0ZxZJlpQ4D9u8sAZ9IT5IxlltsAAAAASUVORK5CYII=)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=Axios)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
