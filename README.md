@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello there! 👋 'm <a href='https://allmosthumann.github.io/personal-homepage/' target="_blank">Jakub<a/></h1></summary>
+    <summary><h1 style="display: inline-block">Hello there! 👋 I'm <a href='https://allmosthumann.github.io/personal-homepage/' target="_blank">Jakub<a/></h1></summary>
   </ul>
 </div>
 <div align="center">
