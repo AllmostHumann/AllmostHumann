@@ -1,14 +1,12 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello there! 👋 'm Jakub <a href='https://allmosthumann.github.io/personal-homepage/'>Jakub<a/></h1></summary>
+    <summary><h1 style="display: inline-block">Hello there! 👋 'm <a href='https://allmosthumann.github.io/personal-homepage/' target="_blank">Jakub<a/></h1></summary>
   </ul>
 </div>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-### 👨🏻‍💻 &nbsp;[Please take a look at my personal homepage](https://allmosthumann.github.io/personal-homepage/)
 
 💡 &nbsp;I am currently working in the largest craft brewery in Poland.\
 🎓 &nbsp;But I want to change my life and become Frontend Developer and someday Fullstack Developer.\
@@ -77,4 +75,4 @@
 
 -----
 
-Last Edited on: 09.01.2024
+Last Edited on: 24.01.2024
