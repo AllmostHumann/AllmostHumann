@@ -8,8 +8,6 @@
        alt="snake" /></a>
 </div>
 
-💡 &nbsp;I am currently working in the largest craft brewery in Poland.\
-🎓 &nbsp;But I want to change my life and become Frontend Developer and someday Fullstack Developer.\
 ✍️ &nbsp;In my free time, I'm trying to develop my skills and catch up with technological innovations.
 
 ### 🛠 &nbsp;Tech Stack
@@ -75,4 +73,4 @@
 
 -----
 
-Last Edited on: 24.01.2024
+Last Edited on: 29.04.2024
