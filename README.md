@@ -51,8 +51,6 @@
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![Puppeteer](https://img.shields.io/badge/-puppeteer-05122A?style=flat&logo=puppeteer)&nbsp;
 
-### ⏳ &nbsp;I'm Currently working at amazing project [Mirrorboards](https://github.com/mirrorboards) on my second account. Countdown to bitcoin halving!
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
